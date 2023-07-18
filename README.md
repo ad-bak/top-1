@@ -2,16 +2,16 @@
 
 ## Overview
 
-This project is a part of the Odin Project's curriculum. It focuses on understanding and implementing HTML tables. The challenge involves reading tutorials, coding along, and completing an assessment to put the newly learned skills into practice.
+This project is a part of the Odin Project's curriculum and focuses on understanding and implementing HTML tables. It's a simple challenge that I undertook to refresh my skills during my free time. While it's a basic project, it's always beneficial to revisit the fundamentals, as they lay the foundation for more complex concepts.
 
 ## Objectives
 
 The main objectives of this project were to:
 
-- Understand the concept and usage of HTML tables.
-- Learn to create advanced HTML tables.
-- Understand why it's not a good idea to use HTML tables for page layout.
-- Learn about caption elements and the scope attribute in HTML tables.
+- Revisit the concept and usage of HTML tables.
+- Refresh knowledge on creating advanced HTML tables.
+- Recall why it's not a good idea to use HTML tables for page layout.
+- Review the usage of caption elements and the scope attribute in HTML tables.
 
 ## Project Status
 
@@ -23,16 +23,8 @@ The project was implemented following the guidelines and assignments provided by
 
 ## Reflection
 
-This project was a great opportunity to delve into the specifics of HTML tables. It provided a clear understanding of when and how to use tables effectively in web development. The challenge of the assessment allowed for practical application of the concepts learned.
+This project served as a great refresher on the specifics of HTML tables. It's always good to revisit the basics, as it strengthens the understanding of more complex concepts. The challenge of the assessment allowed for practical application of the concepts learned.
 
 ## Acknowledgments
 
 I would like to thank [The Odin Project](https://www.theodinproject.com/) for providing this challenge and [MDN Web Docs](https://developer.mozilla.org/) for the valuable resources.
-
-## Author
-
-[Your Name]
-
-## License
-
-This project is licensed under the MIT License.
