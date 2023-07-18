@@ -1,0 +1,40 @@
+body {
+  height: 1500px; /* just to test scrolling */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #f8f8f8;
+}
+
+th {
+  background-color: #909090;
+  color: #ffffff;
+  border: 1px solid #747474;
+  padding: 10px;
+  text-align: left;
+}
+
+td {
+  border: 1px solid #dddddd;
+  padding: 10px;
+  text-align: left;
+}
+
+tr:nth-child(even) {
+  background-color: #e8e8e8;
+}
+
+tr:hover,
+th:hover,
+td:hover {
+  background-color: #cccccc;
+  cursor: pointer;
+}
+
+th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
